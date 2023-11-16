@@ -1,0 +1,4 @@
+# git ignore file base
+node_modules/
+.env
+dump.rdb
